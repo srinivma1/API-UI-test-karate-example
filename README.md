@@ -1,4 +1,6 @@
-# API Testing with Karate Spring boot example
+# API & UI Automation Testing with Karate
+
+# API Testing
 
 This is a sample spring-boot project to demonstrate to use karate for API testing
 
